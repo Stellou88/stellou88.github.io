@@ -1,0 +1,106 @@
+
+
+#container {
+	width: 100%;
+   margin: 0 auto;
+   height: 100%;
+   background-color: white;
+
+}
+
+#header {
+
+width: 1350px;
+	height: 145px;
+	background-color: white;
+	margin: 0 auto;
+}
+
+
+#header img {
+	width: 150px;
+	height: 150px;
+	float: left;
+	margin: 0 auto;
+}
+
+#header h1 {
+	padding-top: 60px;
+	margin-left: 160px;
+	font-family: "courier new";
+
+}
+
+#header h3 {
+	margin-left: 1100px;
+	font-family: "courier new";
+	float: right;
+	height: 20px;
+
+}
+
+#img100 {
+
+	padding-left: 50%;
+}
+
+#h3header {
+
+	font-family: "courier new";
+	color: black;
+    padding-top: 5px;
+    padding-left: 500px;
+
+}
+
+#submit {
+
+font-family: "courier new";
+	color: black;
+    padding-top: 5px;
+    padding-left: 500px;
+
+
+}
+
+
+
+#h2header {
+
+	font-family: "courier new";
+	color: orange;
+    padding-top: 5px;
+    padding-left: 500px;
+
+}
+
+
+}
+
+.header-box {
+	background-color: white;
+width: 100%;
+   margin: 0 auto;
+   height: 120px;
+}
+
+
+
+#menu {
+
+font-family: "courier new";
+margin-left: 1100px;
+	float: right;
+	height: 20px;
+
+
+}
+
+id {
+
+
+
+}
+
+
+/*rgba(0, 255, 0, 0.3) green with opacity */ 
